@@ -1,0 +1,11 @@
+# Arquivos de ambiente (Chaves de API)
+.env
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
